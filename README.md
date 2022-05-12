@@ -1,6 +1,6 @@
 # Welcome to my EPPS6354.github.io website.
 
-[AS1]()
-[AS2]()
-[AS3]()
-[AS4]()
+[AS1](as1.pdf)
+[AS2](AS2.pdf)
+[AS3](AS3.pdf)
+[AS4](AS4.pdf)
